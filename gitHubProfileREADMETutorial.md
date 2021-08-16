@@ -14,15 +14,15 @@ After signing into your GitHub account, click on the <i class="fa fa-plus"></i> 
 ### 2. Name Your Repository  
 Under **Repository name**, write your username exactly as it appears under **owner**. Optionally, add a **description**. 
 > :warning: **_Warning:_** If **Repository name** differs from **owner**, your repository will not contain a public README profile.<br>
-<img width="777" alt="repositoryName" src="https://user-images.githubusercontent.com/41116726/129500447-5336f2e4-c117-4f03-a9bb-62fd21faa9d3.png">
+<img width="764" alt="repositoryName" src="https://user-images.githubusercontent.com/41116726/129503784-3f7e10d3-65b7-4feb-8a6d-1fc4b1d5295a.png">
 
 ### 3. Make Your Repository Public
-Make your repository public by choosing the **Public** option.
-<img width="721" alt="public" src="https://user-images.githubusercontent.com/41116726/129500452-452e4c49-54b9-4809-9445-fca36b08001a.png">
+Make your repository public by choosing the **Public** option.<br>
+<img width="514" alt="public" src="https://user-images.githubusercontent.com/41116726/129504008-f3c4d2c5-b781-4d79-a2a7-b9a7dacd2bf4.png">
 
 ### 4. Add a README File   
 Choose the **Add a README file** field. <br> 
-<img width="695" alt="addREADME" src="https://user-images.githubusercontent.com/41116726/129500458-ca828472-eb8e-4618-811e-0f681c8cbd99.png">
+<img width="479" alt="addREADME" src="https://user-images.githubusercontent.com/41116726/129504129-a81e8eab-39dc-47c7-95b3-e9346936fef5.png">
 
 ### 5. Create Your README File
 Click **Create repository**. <br>
@@ -30,7 +30,7 @@ Click **Create repository**. <br>
 
 ## :clap: You Did It!  
 Congratulations! You've successfully created a GitHub profile README. Personalize your profile by clicking **Edit README**. Have fun introducing yourself to the GitHub Community about yourself! <br>
-<img width="327" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129500460-f4a8a173-b619-4862-83ab-55940940267f.png">
+<img width="326" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129503434-76df1619-e19e-40e5-a6c6-687970a2cbca.png">
 
 ## :books: Further Reading 
 See below for more in-depth information about GitHub profile READMEs: 
