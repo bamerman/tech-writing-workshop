@@ -1,13 +1,13 @@
 # :checkered_flag: Getting Started With Your GitHub Profile README
 ## :ear: Audience 
-This tutorial is for new GitHub users. If you are familiar with creating a GitHub profile README, skip to the [Further Reading](#further-reading) section at the end of this page.
+This tutorial is for new GitHub users. If you are already familiar with creating a GitHub profile README, skip to the [Further Reading](#further-reading) section at the end of this page.
 
 ## :dart: Goal 
 In this tutorial, you will create a GitHub profile README in five easy steps. Your GitHub profile README will be your GitHub About Me page. 
 
 ## :footprints: Five Easy Steps 
 ### 1. Create Repository
-After signing into your GitHub account, click on the <i class="fa fa-plus" aria-hidden="true"></i> icon at the top right of the GitHub webpage. Choose **New repository** from the dropdown menu.
+After signing into your GitHub account, click on the **+** icon on the top right of the GitHub webpage. Choose **New repository** from the dropdown menu.
 > :bulb: **Tip:** The dropdown menu will only appear when your browser is on full screen. This tutorial recommends that you continue with your browser window fully extended.<br>
 <img width="244" alt="newRepository" src="https://user-images.githubusercontent.com/41116726/129500454-264156f4-e9ae-46b1-aa25-b53c85bc98d4.png">
 
@@ -29,7 +29,7 @@ Click **Create repository**.<br>
 <img width="176" alt="createRepository" src="https://user-images.githubusercontent.com/41116726/129500459-36b162c7-4ef4-4677-9f38-40d398957bf5.png">
 
 ## :clap: You Did It!  
-Congratulations! You've successfully created a GitHub profile README. Personalize your profile by clicking **Edit README**. Have fun introducing yourself to the GitHub Community!<br>
+Congratulations! You've successfully created a GitHub profile README. Personalize your README profile by clicking **Edit README**. Have fun introducing yourself to the GitHub Community!<br>
 <img width="326" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129503434-76df1619-e19e-40e5-a6c6-687970a2cbca.png">
 
 ## Further Reading 
