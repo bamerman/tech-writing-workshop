@@ -1,11 +1,11 @@
-# Getting Started With a GitHub Profile README
+# :checkered_flag: Getting Started With a GitHub Profile README
 ## Audience 
 This tutorial is for new GitHub users. If you are familiar with creating a profile README, skip to the [Further Reading] (#further-reading) section at the end of this page.
 
-## Goal 
+## :dart: Goal 
 In this tutorial, you will create a GitHub profile README file in five easy steps. Your GitHub profile README will be your *About Me* page on GitHub. 
 
-## Five Steps 
+## :footprints: Five Steps 
 ### 1. Create A Repository
 After signing into your GitHub account, click on the <i class="fa fa-plus"></i> icon at the top right of the GitHub webpage. Choose **New repository** from the dropdown menu. If you haven't created your GitHub account, you can learn how to do so [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).
 > :bulb: **_Tip:_** The dropdown menu will only appear when your browser is on full screen. This tutorial recommends that you continue with your browser window fully extended.<br>
@@ -16,7 +16,7 @@ Under **Repository name**, write your username exactly as it appears under **own
 > :warning: **_Warning:_** If **Repository name** differs from **owner**, your repository will not contain a public README profile.<br>
 <img width="777" alt="repositoryName" src="https://user-images.githubusercontent.com/41116726/129500447-5336f2e4-c117-4f03-a9bb-62fd21faa9d3.png">
 
-### 3. Publicize Your Repository
+### 3. Make Your Repository Public
 Make your repository public by choosing the **Public** option.
 <img width="721" alt="public" src="https://user-images.githubusercontent.com/41116726/129500452-452e4c49-54b9-4809-9445-fca36b08001a.png">
 
@@ -28,11 +28,11 @@ Choose the **Add a README file** field. <br>
 Click **Create repository**. <br>
 <img width="176" alt="createRepository" src="https://user-images.githubusercontent.com/41116726/129500459-36b162c7-4ef4-4677-9f38-40d398957bf5.png">
 
-## You Did It!  
-Congratulations! You've successfully created a GitHub profile README. Personalize your profile by clicking **Edit README**. Have fun telling the GitHub Community about yourself! <br>
+## :clap: You Did It!  
+Congratulations! You've successfully created a GitHub profile README. Personalize your profile by clicking **Edit README**. Have fun introducing yourself to the GitHub Community about yourself! <br>
 <img width="327" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129500460-f4a8a173-b619-4862-83ab-55940940267f.png">
 
-## Further Reading 
+## :books: Further Reading 
 See below for more in-depth information about GitHub profile READMEs: 
 - [About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
 - [Creating a Standout GitHub Profile README](https://medium.com/bigcommerce-developer-blog/creating-a-standout-github-profile-readme-ee87f4320585)
