@@ -12,7 +12,7 @@ After signing into your GitHub account, click on the <i class="fa fa-plus" aria-
 <img width="244" alt="newRepository" src="https://user-images.githubusercontent.com/41116726/129500454-264156f4-e9ae-46b1-aa25-b53c85bc98d4.png">
 
 ### 2. Name Repository  
-Under **Repository name**, write your username exactly as it appears under **owner**. Optionally, add a **description**. 
+Under **Repository name**, write your username exactly as it appears under **Owner**. Optionally, add a **Description**. 
 > :warning: **Warning:** If **Repository name** differs from **Owner**, your repository will not contain a public README profile.<br>
 <img width="400" alt="repositoryName" src="https://user-images.githubusercontent.com/41116726/129504735-d7cecef9-dc09-4c46-b901-0037d7ba2d18.png">
 
