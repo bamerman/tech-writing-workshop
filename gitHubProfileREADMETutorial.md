@@ -1,11 +1,3 @@
----
-title: "Getting Started With GitHub Profile READMEs"
-slug: "getting-started"
-excerpt: "Create a GitHub Profile README in Five Easy Steps"
-hidden: false
-createdAt: "2021-08-13T17:42:33.828Z"
-updatedAt: "2021-08-16T00:12:21.129Z"
----
 # Getting Started With a GitHub Profile README
 ## Audience 
 This tutorial is for new GitHub users. If you are familiar with creating a profile README, skip to the [Further Reading] (#further-reading) section at the end of this page.
