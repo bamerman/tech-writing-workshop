@@ -28,7 +28,7 @@ Choose the **Add a README file** field.<br>
 Click **Create repository**.<br>
 <img width="176" alt="createRepository" src="https://user-images.githubusercontent.com/41116726/129500459-36b162c7-4ef4-4677-9f38-40d398957bf5.png">
 
-## :clap: You did it!  
+## :clap: You did it  
 Congratulations! You've successfully created a GitHub profile README. Personalize your README profile by clicking **Edit README**. Have fun introducing yourself to the GitHub Community!<br>
 <img width="326" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129503434-76df1619-e19e-40e5-a6c6-687970a2cbca.png">
 
