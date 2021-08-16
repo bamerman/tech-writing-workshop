@@ -7,13 +7,13 @@ In this tutorial, you will create a GitHub profile README in five easy steps. Yo
 
 ## :footprints: Five Easy Steps 
 ### 1. Create Repository
-After signing into your GitHub account, click on the <i class="fa fa-plus" aria-hidden="true"></i> icon at the top right of the GitHub webpage. Choose **New repository** from the dropdown menu. If you haven't created your GitHub account, you can learn how to do so [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).
+After signing into your GitHub account, click on the <i class="fa fa-plus" aria-hidden="true"></i> icon at the top right of the GitHub webpage. Choose **New repository** from the dropdown menu.
 > :bulb: **Tip:** The dropdown menu will only appear when your browser is on full screen. This tutorial recommends that you continue with your browser window fully extended.<br>
 <img width="244" alt="newRepository" src="https://user-images.githubusercontent.com/41116726/129500454-264156f4-e9ae-46b1-aa25-b53c85bc98d4.png">
 
 ### 2. Name Repository  
 Under **Repository name**, write your username exactly as it appears under **owner**. Optionally, add a **description**. 
-> :warning: **Warning:** If **Repository name** differs from **owner**, your repository will not contain a public README profile.<br>
+> :warning: **Warning:** If **Repository name** differs from **Owner**, your repository will not contain a public README profile.<br>
 <img width="400" alt="repositoryName" src="https://user-images.githubusercontent.com/41116726/129504735-d7cecef9-dc09-4c46-b901-0037d7ba2d18.png">
 
 ### 3. Make Repository Public
