@@ -1,5 +1,5 @@
 ---
-title: "Getting Started With Your GitHub Profile README"
+title: "Getting Started With GitHub Profile READMEs"
 slug: "getting-started"
 excerpt: "Create a GitHub Profile README in Five Easy Steps"
 hidden: false
@@ -42,5 +42,6 @@ Congratulations! You've successfully created a GitHub profile README. Personaliz
 
 ## Further Reading 
 See below for more in-depth information about GitHub profile READMEs: 
-- [Create Eye-Catching GitHub Profile READMEs](https://medium.com/bigcommerce-developer-blog/creating-a-standout-github-profile-readme-ee87f4320585)
-- [GitHub Profile README Tips & Tricks](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
+- [About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
+- [Creating a Standout GitHub Profile README](https://medium.com/bigcommerce-developer-blog/creating-a-standout-github-profile-readme-ee87f4320585)
+- 
