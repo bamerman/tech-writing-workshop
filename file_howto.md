@@ -26,7 +26,7 @@ To add a file to your GitHub repository, follow these steps:
 ![Upload files](/file_howto/upload-files.png)
 ![Drag choose](/file_howto/drag-choose.png)
 ## Recommended
-Now that you've added a file to your GitHub repository, learn about GitHub file management with these guides: 
+Learn more about GitHub file management with these guides: 
 - [Moving a file to a new location](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/moving-a-file-to-a-new-location)
 - [Editing your files](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository)
 - [Renaming your files](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/renaming-a-file)
