@@ -10,7 +10,7 @@ To add a file to your GitHub repository, follow these steps:
     - Upload files
 
 ![Add file](/file_howto/add-file.png)
->**Note:** An ***Add file*** button will not appear if you created your repository without a *README* or *.gitignore* file. If this is the case, start with the next sections. 
+>**Note:** **Add file** will not appear if you created your repository without a *README* or *.gitignore* file. If this is the case, start with the next sections. 
 ## Create new file 
 1. To create a new file, select **Create new file**.
 2. Name your file, and get to work! 
