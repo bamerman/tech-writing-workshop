@@ -6,8 +6,9 @@ Adding files to your GitHub repository lets you do two important things:
 To add a file to your initialized GitHub repository, follow these steps: 
 1. On the **Your repositories** page, choose the respository you'd like to add a file to.
 2.  Click the **Add file** button and choose one of the following:  
-- Create new file 
-- Upload files
+    - Create new file 
+    - Upload files
+>**Warning:** No ***Add file*** button will appear if you created a repository without *README* or *.gitignore* files. If this is the case, skip to the sections below. 
 ## Create new file 
 1. Click **Create new file** if you don't have at least one existing file to upload to your GitHub repository. 
 2. Name your new file, and get right to work! 
@@ -16,4 +17,5 @@ To add a file to your initialized GitHub repository, follow these steps:
 2. You can upload files in one of two ways: 
     - **Drag files** from your computer desktop to the GitHub page. 
     - **Choose your files** from your computer documents.
-## Next steps 
+## Recommended
+Now that you know how to add files to your GitHub repository, continue learning with the following guides: 
