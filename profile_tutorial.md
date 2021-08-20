@@ -1,6 +1,6 @@
 # Getting started with your GitHub profile README
 
-In this tutorial, **you'll create a GitHub profile README.** A GitHub profile README equals your GitHub *About me* page.
+In this tutorial, you'll create a GitHub profile README. Your profile README will be your GitHub *About me* page, where you can introduce yourself to other GitHub users. 
 
 If you're already familiar with creating a GitHub profile README, skip to the [Further reading](#further-reading) section below.
 
