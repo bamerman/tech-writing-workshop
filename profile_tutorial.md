@@ -1,12 +1,12 @@
 # Getting started with your GitHub profile README
 
-In this tutorial, you'll create a GitHub profile README. Your profile README will be your GitHub *About me* page, where you can introduce yourself to other GitHub users. 
+In this tutorial, you'll create a GitHub profile README. Your GitHub profile README will be an *About me* page where you can introduce yourself to other GitHub users. 
 
 If you're already familiar with creating a GitHub profile README, skip to the [Further reading](#further-reading) section below.
 
 # Create your GitHub profile README 
 1. Select the **+** icon and choose **New repository** from the dropdown.
-> :warning: The **+** will only appear when your browser is in full screen. 
+> **Warning:** The **+** will only appear when your browser is in full screen. 
 <img width="200" alt="newRepository" src="https://user-images.githubusercontent.com/41116726/129500454-264156f4-e9ae-46b1-aa25-b53c85bc98d4.png">
  
 2. Name your **Repository** after **Owner**. Optionally, add a **Description**.
@@ -18,10 +18,10 @@ If you're already familiar with creating a GitHub profile README, skip to the [F
 4. Choose **Add a README file**.
 <img width="425" alt="addREADME" src="https://user-images.githubusercontent.com/41116726/129504129-a81e8eab-39dc-47c7-95b3-e9346936fef5.png">
 
-5. Click **Create repository**.
+5. Select **Create repository**.
 <img width="176" alt="createRepository" src="https://user-images.githubusercontent.com/41116726/129500459-36b162c7-4ef4-4677-9f38-40d398957bf5.png">
 
-6. **Edit README** to personalize your profile. 
+6. Choose **Edit README** to personalize your profile. 
 <img width="285" alt="editREADME" src="https://user-images.githubusercontent.com/41116726/129503434-76df1619-e19e-40e5-a6c6-687970a2cbca.png">
 
 :clap: Congratulations! You've successfully created a GitHub profile README. Have fun introducing yourself to the GitHub Community!
