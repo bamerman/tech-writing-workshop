@@ -15,7 +15,7 @@ Repositories<br>
 &nbsp; &nbsp; &nbsp; Insights<br> 
 &nbsp; &nbsp; &nbsp; Settings<br> 
     
-# Home page
+## Home page
 The [GitHub home page](https://github.com/) contains all the UI features you'll need to do the following:
 - Navigate GitHub 
 - Manage code 
@@ -23,9 +23,9 @@ The [GitHub home page](https://github.com/) contains all the UI features you'll 
 
 ![Homepage](homepage.png)
 
-## Navigate 
+<a name="navigate">**Navigate**</a>
 
-## Manage
+<a name="manage">**Manage**</a>
 
-## Discover
+<a name="discover">**Discover**</a>
 
