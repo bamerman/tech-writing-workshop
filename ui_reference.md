@@ -1,5 +1,5 @@
 # GitHub UI reference guide
-The GitHub UI makes it easy to manage and discover open-source code. Here, you'll find descriptions of the main features of the GitHub UI and how to use them. 
+The GitHub UI makes it easy to manage and discover open-source code. Here, you'll find descriptions of the main GitHub UI features and how to use them. 
 
 [Home page](#home-page)<br>
 &nbsp; &nbsp; &nbsp; [Navigate](#navigate)<br>
@@ -20,8 +20,6 @@ The [GitHub home page](https://github.com/) contains all the UI features you'll 
 - Navigate GitHub 
 - Manage code 
 - Discover projects
-
-![Homepage](homepage.png)
 
 <a name="navigate">**Navigate**</a>
 
