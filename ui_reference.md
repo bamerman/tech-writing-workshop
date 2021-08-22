@@ -5,26 +5,23 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code. 
 &nbsp; &nbsp; &nbsp; [Search bar](#search-bar)<br>
 &nbsp; &nbsp; &nbsp; [Shortcuts panel](#shortcuts-panel)<br>
 &nbsp; &nbsp; &nbsp; [Profile tabs](#profile-tabs)<br>
-[Repository page](#repository-page)<br>
-&nbsp; &nbsp; &nbsp; Issues<br>
-&nbsp; &nbsp; &nbsp; Pull requests<br>
-&nbsp; &nbsp; &nbsp; Actions<br>
-&nbsp; &nbsp; &nbsp; Projects<br>
-&nbsp; &nbsp; &nbsp; Wiki<br>
-&nbsp; &nbsp; &nbsp; Security<br> 
-&nbsp; &nbsp; &nbsp; Insights<br> 
-&nbsp; &nbsp; &nbsp; Settings<br> 
+[Repository pages](#repository-pages)<br>
+&nbsp; &nbsp; &nbsp; [Issues](#issues)<br>
+&nbsp; &nbsp; &nbsp; [Pull requests](#pull-requests)<br>
+&nbsp; &nbsp; &nbsp; [Actions](#actions)<br>
+&nbsp; &nbsp; &nbsp; [Projects](#projects)<br>
+&nbsp; &nbsp; &nbsp; [Wiki](#wiki)<br>
+&nbsp; &nbsp; &nbsp; [Security](#security)<br> 
+&nbsp; &nbsp; &nbsp; [Insights](#insights)<br> 
+&nbsp; &nbsp; &nbsp; [Settings](#settings)<br> 
 [Explore page](#explore-page)<br>
-&nbsp; &nbsp; &nbsp; Topics<br> 
-&nbsp; &nbsp; &nbsp; Recommended<br> 
-&nbsp; &nbsp; &nbsp; Trending<br>    
+&nbsp; &nbsp; &nbsp; [Topics](#topics)<br> 
+&nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
+&nbsp; &nbsp; &nbsp; [Trending](#trending)<br>    
 ## Home page
-The [GitHub home page](https://github.com/) helps you to navigate GitHub with these UI features:
-- Search bar
-- Manage code 
-- Discover projects
+The [GitHub home page](https://github.com/) makes it easy to navigate GitHub with these UI features:
 
-\Insert image of GitHub homepage with three UI features highlighted.\
+<!-- Insert image of homepage with three main UI features highlighted here -->
 
 <a name="search-bar">**Search bar**</a> 
 
@@ -32,5 +29,26 @@ The [GitHub home page](https://github.com/) helps you to navigate GitHub with th
 
 <a name="profile-tabs">**Profile tabs**</a>
 
-## Repository page 
+## Repository pages 
+<a name="issues">**Issues**</a> 
+
+<a name="pull-requests">**Pull requests**</a>
+
+<a name="actions">**Actions**</a>
+
+<a name="projects">**Projects**</a> 
+
+<a name="wiki">**Wiki**</a>
+
+<a name="security">**Security**</a>
+
+<a name="insights">**Insights**</a>
+
+<a name="settings">**Settings**</a>
+
 ## Explore page 
+<a name="topics">**1. Topics**</a> 
+
+<a name="recommended">**2. Recommended**</a>
+
+<a name="trending">**3. Trending**</a>
