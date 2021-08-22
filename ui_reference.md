@@ -21,9 +21,9 @@ The [GitHub home page](https://github.com/) contains all the UI features you'll 
 - Manage code 
 - Discover projects
 
-<a name="navigate">**Navigate**</a>
+<a name="navigate">**1. Navigate**</a> 
 
-<a name="manage">**Manage**</a>
+<a name="manage">**2. Manage**</a>
 
-<a name="discover">**Discover**</a>
+<a name="discover">**3. Discover**</a>
 
