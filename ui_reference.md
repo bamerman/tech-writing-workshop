@@ -19,7 +19,7 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code. 
 &nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
 &nbsp; &nbsp; &nbsp; [Trending](#trending)<br>    
 ## Home page
-The [GitHub home page](https://github.com/) makes it easy to navigate GitHub with these UI features:
+These [GitHub home page](https://github.com/) UI features make it easy to navigate GitHub:
 
 <!-- Insert image of homepage with three main UI features highlighted here -->
 
