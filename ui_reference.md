@@ -23,32 +23,32 @@ The [GitHub home page](https://github.com/) makes it easy to navigate GitHub wit
 
 <!-- Insert image of homepage with three main UI features highlighted here -->
 
-<a name="search-bar">**Search bar**</a> 
-
-<a name="shortcuts-panel">**Shortcuts panel**</a>
-
-<a name="profile-tabs">**Profile tabs**</a>
+**Feature** | **Function**
+--------------- | ----------------
+<a name="search-bar">Search bar</a> | Search the entire GitHub database–including respositories, topics, and support docs.   
+<a name="shortcuts-panel">Shortcuts panel</a> | N/A |
+<a name="profile-tabs">Profile tabs</a> | N/A |
 
 ## Repository pages 
-<a name="issues">**Issues**</a> 
+<a name="issues">Issues</a> 
 
-<a name="pull-requests">**Pull requests**</a>
+<a name="pull-requests">Pull requests</a>
 
-<a name="actions">**Actions**</a>
+<a name="actions">Actions</a>
 
-<a name="projects">**Projects**</a> 
+<a name="projects">Projects</a> 
 
-<a name="wiki">**Wiki**</a>
+<a name="wiki">Wiki</a>
 
-<a name="security">**Security**</a>
+<a name="security">Security</a>
 
-<a name="insights">**Insights**</a>
+<a name="insights">Insights</a>
 
-<a name="settings">**Settings**</a>
+<a name="settings">Settings</a>
 
 ## Explore page 
-<a name="topics">**1. Topics**</a> 
+<a name="topics">Topics</a> 
 
-<a name="recommended">**2. Recommended**</a>
+<a name="recommended">Recommended</a>
 
-<a name="trending">**3. Trending**</a>
+<a name="trending">Trending</a>
