@@ -17,10 +17,11 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code o
 [Explore page](#explore-page)<br>
 &nbsp; &nbsp; &nbsp; [Starred topics](#starred-topics)<br> 
 &nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
-&nbsp; &nbsp; &nbsp; [Trending](#trending)<br>  
+&nbsp; &nbsp; &nbsp; [Trending](#trending)  
+[Marketplace page](#marketplace-page)
 
 ## Home page
-The [GitHub home page](https://github.com/) contains the following UI features that steamline your navigation around GitHub.
+The [GitHub home page](https://github.com/) contains these UI features to steamline your navigation around GitHub:
 
 - <a name="search-bar">**Search bar**</a><br>
 Use the search bar to find repositories in these three ways: 
@@ -30,17 +31,15 @@ Use the search bar to find repositories in these three ways:
 
 - <a name="navigation-menu">**Navigation menu**</a><br>
 The navigation menu contains easily accessible links to these important landing pages:
-    - The **Pull requests** page 
-    - The **Issues** page
-    - The **Marketplace** page 
-    - For information on the **explore page**, see [below](#explore-page). 
+    - [**Pull requests**](#pull-requests) 
+    - [**Issues**](#issues)
+    - [**Marketplace**](marketplace)
+    - [**Explore page**](#explore-page)
     
 - <a name="profile-tabs">**Profile tabs**</a> 
 
 ## Repository page 
-On a repository's landing page, the control panel features contain everything you need to manage your open-source code, including: 
-
-<!-- Insert image of sample repository page with control panel highlighted -->
+On a repository's landing page, the control panel contains everything you need to manage your repository, including: 
 
 | **Feature** | **Function** |
 | --------------- | ---------------- |
@@ -62,3 +61,5 @@ On the [GitHub explore page](https://github.com/explore), these UI features help
 <a name="recommended">**Recommended**</a>
 
 <a name="trending">**Trending**</a>
+
+## Marketplace page
