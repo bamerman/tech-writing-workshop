@@ -39,7 +39,7 @@ The repositories side bar provides easy access your repositories. Use the reposi
     - View the *Recent activity list* for the most recent changes to your repositories. Select an activity to view it in more detail. 
 
 ## Repository page
-The **navigation menu** on a repository's landing page contains everything you need to manage your repository, including:
+The **navigation menu** on a repository's landing page contains everything you need to manage your repository. Select any of the menu tabs listed below to manage the relevant aspect of your repository:
 - Code
 - Issues
 - Pull requests
@@ -66,5 +66,6 @@ The *Trending side bar* shows repositories and developers that are trending in t
 The [GitHub Marketplace](https://github.com/marketplace?type=) contains the following:
 ***
 - **Apps store**<br>
+
 ***
 - **Actions store**<br>
