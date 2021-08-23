@@ -39,43 +39,32 @@ Use the repositories side bar to easily access your repositories in these three 
     - The *Recent activity list* displays the most recent changes to your repositories. Select an activity to view it in more detail. 
 
 ## Repository page
-The navigation menu on a repository's landing page contains everything you need to manage your repository, including:
-***
-- **Code**
-***
-- **Issues**
-***
-- **Pull requests**
-***
-- **Actions** 
-***
-- **Projects**
-***
-- **Wiki**
-***
-- **Security** 
-***
-- **Insights** 
-***
-- **Settings** 
-***
+The **navigation menu** on a repository's landing page contains everything you need to manage your repository, including:
+- Code
+- Issues
+- Pull requests
+- Actions
+- Projects
+- Wiki
+- Security
+- Insights 
+- Settings 
 
 ## Explore page
-The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:    
-- <a name="starred">**Starred**</a><br>
+The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:   
 ***
-Use the **starred side panel** to easily view topics and repositories you've bookmarked. 
-- <a name="recommended">**Recommended**</a><br>
+- Starred side panel<br>
+Use the *Starred side panel* to easily view topics and repositories you've bookmarked. 
 ***
-Use the **recommended feed** to find repositories that GitHub thinks you'll find interesting.  
-- <a name="trending">**Trending**</a><br>
+- Recommended feed<br>
+Use the *Recommended feed* to find repositories that GitHub thinks you'll find interesting.
 ***
-The **trending side bar** shows repositories and developers that are trending in the GitHub community. 
-***
+- Trending side panel<br>
+The *Trending side bar* shows repositories and developers that are trending in the GitHub community. 
+
 ## Marketplace page
 The GitHub Marketplace contains the following UI components for optimizing your GitHub workflow:
 ***
-- [**Apps**](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps#about-github-apps) 
+- [**Apps store**](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps#about-github-apps) 
 ***
-- [**Actions**](https://docs.github.com/en/actions/creating-actions/about-actions#about-actions)  
-***
+- [**Actions store**](https://docs.github.com/en/actions/creating-actions/about-actions#about-actions)  
