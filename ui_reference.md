@@ -1,5 +1,5 @@
 # GitHub UI reference guide
-The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI components on the following landing pages and how to use them:
+The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI components on the following GitHub landing pages:
 
 [Home page](#home-page)<br>
 [Repository page](#repository-page)<br> 
@@ -7,22 +7,22 @@ The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, y
 [Marketplace page](#marketplace-page)<br>
 
 ## Home page
-The [GitHub home page](https://github.com/) contains these four UI components to help you navigate GitHub:
+The [GitHub home page](https://github.com/) contains these major UI components that help you navigate GitHub:
 ***
 - <a name="search-bar">**Search bar**</a><br>
-The search bar helps you find repositories in these three ways:<br>
+The search bar helps you find repositories. You can use the search bar in the following ways:<br>
 
     - In the search bar, write *keywords* relevant to the repository you're looking for.
     - Select the search bar to view repositories you've *recently visited*. 
     - *Filter* your search by several criteria, including `issues`, `discussions`, `wikis`, `users`, and `languages`. 
 ***
 - <a name="navigation-menu">**Navigation menu**</a><br>
-Use the navigation menu to navigate to these important landing pages:
+The navigation menu lets you quickly navigate to the following:
 
     - Pull requests 
     - Issues
-    - Marketplace
-    - Explore page 
+    - [Marketplace](#marketplace-page) 
+    - [Explore](#explore-page)
 ***  
 - <a name="profile-menu">**Profile menu**</a><br>
 Use the profile menu to quickly manage your GitHub profile:
