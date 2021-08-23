@@ -6,7 +6,7 @@ The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, y
 [Explore page](#explore-page)<br> 
 
 ## Home page
-The [GitHub home page](https://github.com/) contains these UI components that help you navigate GitHub:
+The [GitHub home page](https://github.com/) contains these five UI components to help you navigate GitHub:
 ***
 - <a name="search-bar">**Search bar**</a><br>
 The search bar helps you find repositories. You can use the search bar in the following ways:<br>
@@ -50,7 +50,7 @@ The **navigation menu** on a repository's landing page contains everything you n
 - Settings 
 
 ## Explore page
-The [GitHub explore page](https://github.com/explore) contains these UI components to help you discover what's happening in the GitHub community:   
+The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:   
 
 - **Starred side panel**<br>
 The *Starred side panel* displays topics and repositories you've bookmarked. 
