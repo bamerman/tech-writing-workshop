@@ -3,7 +3,7 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code o
 
 [Home page](#home-page)<br>
 &nbsp; &nbsp; &nbsp; [Search bar](#search-bar)<br>
-&nbsp; &nbsp; &nbsp; [Shortcuts panel](#shortcuts-panel)<br>
+&nbsp; &nbsp; &nbsp; [Navigation menu](#navigation-menu)<br>
 &nbsp; &nbsp; &nbsp; [Profile tabs](#profile-tabs)<br>
 [Repository page](#repository-page)<br>
 &nbsp; &nbsp; &nbsp; [Issues](#issues)<br>
@@ -15,24 +15,30 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code o
 &nbsp; &nbsp; &nbsp; [Insights](#insights)<br> 
 &nbsp; &nbsp; &nbsp; [Settings](#settings)<br> 
 [Explore page](#explore-page)<br>
-&nbsp; &nbsp; &nbsp; [Starred](#starred)<br> 
+&nbsp; &nbsp; &nbsp; [Starred topics](#starred-topics)<br> 
 &nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
-&nbsp; &nbsp; &nbsp; [Trending](#trending)<br>    
+&nbsp; &nbsp; &nbsp; [Trending](#trending)<br>  
 
 ## Home page
-On the [GitHub home page](https://github.com/), you'll find the following UI features that steamline your navigation around GitHub:
+The [GitHub home page](https://github.com/) contains the following UI features that steamline your navigation around GitHub.
 
-<!-- Insert image of homepage with three main UI features highlighted here -->
+- <a name="search-bar">**Search bar**</a><br>
+Use the search bar to find repositories in these three ways: 
+    - In the search bar, write **keywords** relevant to the repository you're looking for.
+    - Select the search bar to view repositories you've **recently visited**. 
+    - **Filter** your search by several criteria, including `issues`, `discussions`, `wikis`, `users`, and `languages`.  
 
-<a name="search-bar">**Search bar**</a><br>
-Search the entire GitHub database for respositories, topics, and support docs. 
-
-<a name="shortcuts-panel">**Shortcuts panel**</a> 
-
-<a name="profile-tabs">**Profile tabs**</a> 
+- <a name="navigation-menu">**Navigation menu**</a><br>
+The navigation menu contains easily accessible links to these important landing pages:
+    - The **Pull requests** page 
+    - The **Issues** page
+    - The **Marketplace** page 
+    - For information on the **explore page**, see [below](#explore-page). 
+    
+- <a name="profile-tabs">**Profile tabs**</a> 
 
 ## Repository page 
-On a repository's landing page, the control panel contains everything you need to manage your open-source code, including: 
+On a repository's landing page, the control panel features contain everything you need to manage your open-source code, including: 
 
 <!-- Insert image of sample repository page with control panel highlighted -->
 
@@ -48,10 +54,10 @@ On a repository's landing page, the control panel contains everything you need t
 | <a name="settings">Settings</a> | N/A |
 
 ## Explore page 
-On the [GitHub explore page](https://github.com/explore) these UI features help you discover what's happening in the GitHub community.    
+On the [GitHub explore page](https://github.com/explore), these UI features help you discover what's happening in the GitHub community.    
 <!-- Insert image of explore page with three sections highlighted -->
 
-<a name="starred">**Starred**</a> 
+<a name="starred-topics">**Starred topics**</a> 
 
 <a name="recommended">**Recommended**</a>
 
