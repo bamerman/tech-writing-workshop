@@ -63,8 +63,8 @@ The *Recommended feed* displays repositories that GitHub thinks you'll find inte
 The *Trending side bar* shows repositories and developers that are trending in the GitHub community. 
 
 ## Marketplace page
-The GitHub Marketplace contains the following:
+The [GitHub Marketplace](https://github.com/marketplace?type=) contains the following:
 ***
-- [**Apps store**](https://github.com/explore) 
+- **Apps store**<br>
 ***
-- [**Actions store**](https://github.com/marketplace?type=)  
+- **Actions store**<br>
