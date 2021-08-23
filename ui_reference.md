@@ -51,21 +51,16 @@ The **navigation menu** on a repository's landing page contains everything you n
 - Settings 
 
 ## Explore page
-The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:   
-***
+The [GitHub explore page](https://github.com/explore) contains these UI components to help you discover what's happening in the GitHub community:   
+
 - **Starred side panel**<br>
 The *Starred side panel* displays topics and repositories you've bookmarked. 
-***
 - **Recommended feed**<br>
 The *Recommended feed* displays repositories that GitHub thinks you'll find interesting.
-***
 - **Trending side panel**<br>
 The *Trending side bar* shows repositories and developers that are trending in the GitHub community. 
 
 ## Marketplace page
 The [GitHub Marketplace](https://github.com/marketplace?type=) contains the following:
-***
 - **Apps store**<br>
-
-***
 - **Actions store**<br>
