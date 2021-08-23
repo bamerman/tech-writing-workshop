@@ -1,5 +1,5 @@
 # GitHub UI reference guide
-The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI components on the following GitHub landing pages:
+The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI components on each of the following GitHub landing pages:
 
 [Home page](#home-page)<br>
 [Repository page](#repository-page)<br> 
@@ -7,7 +7,7 @@ The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, y
 [Marketplace page](#marketplace-page)<br>
 
 ## Home page
-The [GitHub home page](https://github.com/) contains these major UI components that help you navigate GitHub:
+The [GitHub home page](https://github.com/) contains these UI components that help you navigate GitHub:
 ***
 - <a name="search-bar">**Search bar**</a><br>
 The search bar helps you find repositories. You can use the search bar in the following ways:<br>
@@ -19,17 +19,17 @@ The search bar helps you find repositories. You can use the search bar in the fo
 - <a name="navigation-menu">**Navigation menu**</a><br>
 The navigation menu lets you quickly navigate to the following:
 
-    - Pull requests 
-    - Issues
+    - [Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests) 
+    - [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues#quickly-create-issues)
     - [Marketplace](#marketplace-page) 
     - [Explore](#explore-page)
 ***  
 - <a name="profile-menu">**Profile menu**</a><br>
-Use the profile menu to quickly manage your GitHub profile:
+The profile menu contains these features:
 
-    - Select the *Notification bell* to view your messages, mentions, and project updates.    
-    - Select the *Add new dropdown* icon to quickly add a repository, project, or organization.  
-    - Select the *Profile dropdown* icon to view options for managing your GitHub profile. 
+    - A *Notification bell* to view your messages, mentions, and project updates.    
+    - An *Add new dropdown* icon to quickly add a repository, project, or organization.  
+    - A *Profile dropdown* icon to view shortcuts for managing your GitHub profile. 
 ***   
 - <a name="repositories-side-bar">**Repositories side bar**</a><br>
 Use the repositories side bar to easily access your repositories in these three ways:
