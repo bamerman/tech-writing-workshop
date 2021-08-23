@@ -1,11 +1,11 @@
 # GitHub UI reference guide
-The GitHub UI makes it easy to navigate, manage, and discover open-source code. Here, you'll find descriptions of the main GitHub UI features and how to use them. 
+The GitHub UI makes it easy to navigate, manage, and discover open-source code on GitHub. Here, you'll find descriptions of the main GitHub UI features and how to use them. 
 
 [Home page](#home-page)<br>
 &nbsp; &nbsp; &nbsp; [Search bar](#search-bar)<br>
 &nbsp; &nbsp; &nbsp; [Shortcuts panel](#shortcuts-panel)<br>
 &nbsp; &nbsp; &nbsp; [Profile tabs](#profile-tabs)<br>
-[Repository pages](#repository-pages)<br>
+[Repository page](#repository-page)<br>
 &nbsp; &nbsp; &nbsp; [Issues](#issues)<br>
 &nbsp; &nbsp; &nbsp; [Pull requests](#pull-requests)<br>
 &nbsp; &nbsp; &nbsp; [Actions](#actions)<br>
@@ -15,40 +15,44 @@ The GitHub UI makes it easy to navigate, manage, and discover open-source code. 
 &nbsp; &nbsp; &nbsp; [Insights](#insights)<br> 
 &nbsp; &nbsp; &nbsp; [Settings](#settings)<br> 
 [Explore page](#explore-page)<br>
-&nbsp; &nbsp; &nbsp; [Topics](#topics)<br> 
+&nbsp; &nbsp; &nbsp; [Starred](#starred)<br> 
 &nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
 &nbsp; &nbsp; &nbsp; [Trending](#trending)<br>    
+
 ## Home page
-These [GitHub home page](https://github.com/) UI features make it easy to navigate GitHub:
+On the [GitHub home page](https://github.com/), you'll find the following UI features that steamline your navigation around GitHub:
 
 <!-- Insert image of homepage with three main UI features highlighted here -->
 
-**Feature** | **Function**
---------------- | ----------------
-<a name="search-bar">Search bar</a> | Search the entire GitHub database–including respositories, topics, and support docs.   
-<a name="shortcuts-panel">Shortcuts panel</a> | N/A |
-<a name="profile-tabs">Profile tabs</a> | N/A |
+<a name="search-bar">**Search bar**</a><br>
+Search the entire GitHub database for respositories, topics, and support docs. 
 
-## Repository pages 
-<a name="issues">Issues</a> 
+<a name="shortcuts-panel">**Shortcuts panel**</a> 
 
-<a name="pull-requests">Pull requests</a>
+<a name="profile-tabs">**Profile tabs**</a> 
 
-<a name="actions">Actions</a>
+## Repository page 
+On a repository's landing page, the control panel contains everything you need to manage your open-source code, including: 
 
-<a name="projects">Projects</a> 
+<!-- Insert image of sample repository page with control panel highlighted -->
 
-<a name="wiki">Wiki</a>
-
-<a name="security">Security</a>
-
-<a name="insights">Insights</a>
-
-<a name="settings">Settings</a>
+| **Feature** | **Function** |
+| --------------- | ---------------- |
+| <a name="issues">Issues</a> | N/A |
+| <a name="pull-requests">Pull requests</a> | N/A |
+| <a name="actions">Actions</a> | N/A |
+| <a name="projects">Projects</a> | N/A |
+| <a name="wiki">Wiki</a> | N/A |
+| <a name="security">Security</a> | N/A |
+| <a name="insights">Insights</a> | N/A |
+| <a name="settings">Settings</a> | N/A |
 
 ## Explore page 
-<a name="topics">Topics</a> 
+On the [GitHub explore page](https://github.com/explore) these UI features help you discover what's happening in the GitHub community.    
+<!-- Insert image of explore page with three sections highlighted -->
 
-<a name="recommended">Recommended</a>
+<a name="starred">**Starred**</a> 
 
-<a name="trending">Trending</a>
+<a name="recommended">**Recommended**</a>
+
+<a name="trending">**Trending**</a>
