@@ -4,7 +4,6 @@ The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, y
 [Home page](#home-page)<br>
 [Repository page](#repository-page)<br> 
 [Explore page](#explore-page)<br> 
-[Marketplace page](#marketplace-page)<br>
 
 ## Home page
 The [GitHub home page](https://github.com/) contains these UI components that help you navigate GitHub:
@@ -59,8 +58,3 @@ The *Starred side panel* displays topics and repositories you've bookmarked.
 The *Recommended feed* displays repositories that GitHub thinks you'll find interesting.
 - **Trending side panel**<br>
 The *Trending side bar* shows repositories and developers that are trending in the GitHub community. 
-
-## Marketplace page
-The [GitHub Marketplace](https://github.com/marketplace?type=) contains the following:
-- **Apps store**<br>
-- **Actions store**<br>
