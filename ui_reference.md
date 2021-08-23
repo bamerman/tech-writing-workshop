@@ -32,11 +32,11 @@ The profile menu contains these features:
     - A *Profile dropdown* icon to view shortcuts for managing your GitHub profile. 
 ***   
 - <a name="repositories-side-bar">**Repositories side bar**</a><br>
-Use the repositories side bar to easily access your repositories in these three ways:
+The repositories side bar provides easy access your repositories. Use the repository sidebar in these ways:
 
-    - The *Find a repository bar* lets you use key words to search for a repository.     
-    - The *Repository list* displays shortcuts to your most frequently used repositories.    
-    - The *Recent activity list* displays the most recent changes to your repositories. Select an activity to view it in more detail. 
+    - Write key words in the *Find a repository bar* to search for a repository.     
+    - View the *Repository list* for shortcuts to your most frequently used repositories.    
+    - View the *Recent activity list* for the most recent changes to your repositories. Select an activity to view it in more detail. 
 
 ## Repository page
 The **navigation menu** on a repository's landing page contains everything you need to manage your repository, including:
