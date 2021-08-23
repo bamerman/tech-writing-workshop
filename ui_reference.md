@@ -61,7 +61,6 @@ The navigation menu on a repository's landing page contains everything you need 
 ***
 
 ## Explore page
-***
 The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:    
 - <a name="starred">**Starred**</a><br>
 ***
