@@ -1,73 +1,122 @@
 # GitHub UI reference guide
-The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI features and how to use them. 
+The GitHub UI makes it easy to navigate, manage, and discover on GitHub. Here, you'll find descriptions of the main GitHub UI components on the following landing pages and how to use them:
 
 [Home page](#home-page)<br>
-&nbsp; &nbsp; &nbsp; [Search bar](#search-bar)<br>
-&nbsp; &nbsp; &nbsp; [Navigation menu](#navigation-menu)<br>
-&nbsp; &nbsp; &nbsp; [Profile menu](#profile-menu)<br>
-&nbsp; &nbsp; &nbsp; [Repositories side bar](#repositories-side-bar)<br>
-[Repository page](#repository-page)<br>
-&nbsp; &nbsp; &nbsp; [Issues](#issues)<br>
-&nbsp; &nbsp; &nbsp; [Pull requests](#pull-requests)<br>
-&nbsp; &nbsp; &nbsp; [Actions](#actions)<br>
-&nbsp; &nbsp; &nbsp; [Projects](#projects)<br>
-&nbsp; &nbsp; &nbsp; [Wiki](#wiki)<br>
-&nbsp; &nbsp; &nbsp; [Security](#security)<br> 
-&nbsp; &nbsp; &nbsp; [Insights](#insights)<br> 
-&nbsp; &nbsp; &nbsp; [Settings](#settings)<br> 
-[Explore](#explore)<br>
-&nbsp; &nbsp; &nbsp; [Starred](#starred)<br> 
-&nbsp; &nbsp; &nbsp; [Recommended](#recommended)<br> 
-&nbsp; &nbsp; &nbsp; [Trending](#trending)  
-[Marketplace](#marketplace)<br>
+[Repository page](#repository-page)<br> 
+[Explore page](#explore-page)<br> 
+[Marketplace page](#marketplace-page)<br>
 
 ## Home page
-The [GitHub home page](https://github.com/) steamlines your navigation around GitHub with these features:
+The [GitHub home page](https://github.com/) contains these four UI components to help you navigate GitHub:
+
+***
 
 - <a name="search-bar">**Search bar**</a><br>
-The search bar helps you find repositories in these three ways: 
-    - In the search bar, write **keywords** relevant to the repository you're looking for.
-    - Select the search bar to view repositories you've **recently visited**. 
-    - **Filter** your search by several criteria, including `issues`, `discussions`, `wikis`, `users`, and `languages`.  
+The search bar helps you find repositories in these three ways:<br>
+
+    - In the search bar, write *keywords* relevant to the repository you're looking for.
+    - Select the search bar to view repositories you've *recently visited*. 
+    - *Filter* your search by several criteria, including `issues`, `discussions`, `wikis`, `users`, and `languages`. 
+    
+***
 
 - <a name="navigation-menu">**Navigation menu**</a><br>
-The navigation menu contains shortcuts to these important landing pages:
-    - [**Pull requests**](#pull-requests) 
-    - [**Issues**](#issues)
-    - [**Marketplace**](marketplace)
-    - [**Explore page**](#explore-page)
+Use the navigation menu to navigate to these important landing pages:
+
+    - Pull requests 
+    - Issues
+    - Marketplace
+    - Explore page
+    
+***
     
 - <a name="profile-menu">**Profile menu**</a><br>
-The profile menu contains shortcuts to quickly manage your GitHub profile:
-    - The **Notification bell** takes you to your notifications page. Here, you'll find messages, mentions, and project updates.    
-    - The **Add new dropdown** lets you quickly add a repository, project, or organization.  
-    - The **Profile dropdown** gives you options for managing your GitHub profile. 
+Use the profile menu to quickly manage your GitHub profile:
+
+    - Select the *notification bell* to view your messages, mentions, and project updates.    
+    - Select the *add new dropdown* icon to quickly add a repository, project, or organization.  
+    - Select the *profile dropdown* icon to view options for managing your GitHub profile. 
+    
+***
     
 - <a name="repositories-side-bar">**Repositories side bar**</a><br>
-The repositories side bar lets you quickly access your repositories in the following three ways:
-    - The **Find a repository bar** lets you use key words to search for a repository.     
+Use the repositories side bar to easily access your repositories in these three ways:
+
+    - The *Find a repository bar* lets you use key words to search for a repository.     
     - The **Repository list** displays shortcuts to your most frequently used repositories.    
     - The **Recent activity list** displays the most recent changes to your repositories. Select an activity to view it in more detail. 
 
-## Repository page 
+## Repository page
 The navigation menu on a repository's landing page contains everything you need to manage your repository, including:
-- <a name="issues">[Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)</a>
-- <a name="pull-requests">[Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#about-pull-requests)</a> 
-- <a name="actions">[Actions](https://docs.github.com/en/actions/creating-actions/about-actions#about-actions)</a> 
-- <a name="projects">[Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects#about-projects)</a>
-- <a name="wiki">[Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)</a>
-- <a name="security">[Security](https://docs.github.com/en/code-security/security-overview/exploring-security-alerts#about-the-security-overview)</a> 
-- <a name="insights">[Insights](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/viewing-insights-for-your-organization#viewing-organization-dependency-insights)</a>
-- <a name="settings">Settings</a>
 
-## Explore 
-The [GitHub explore page](https://github.com/explore) helps you discover what's happening in the GitHub community with these three UI features:    
+***
+
+- Code
+
+***
+
+- Issues
+
+***
+
+- Pull requests
+
+***
+
+- Actions 
+
+***
+
+- Projects
+
+***
+
+- Wiki 
+
+***
+
+- Security 
+
+***
+
+- Insights 
+
+***
+
+- Setttings 
+
+***
+
+## Explore page
+***
+The [GitHub explore page](https://github.com/explore) contains these three UI components to help you discover what's happening in the GitHub community:    
 - <a name="starred">**Starred**</a><br>
-The **starred side panel** displays topics and repositories you've starred for easy access. 
+
+***
+
+Use the **starred side panel** to easily view topics and repositories you've bookmarked. 
 - <a name="recommended">**Recommended**</a><br>
-The **recommended feed** displays repositories that GitHub thinks you'll find interesting.  
+
+***
+
+Use the **recommended feed** to find repositories that GitHub thinks you'll find interesting.  
 - <a name="trending">**Trending**</a><br>
+
+***
+
 The **trending side bar** shows repositories and developers that are trending in the GitHub community. 
 
+***
+
 ## Marketplace page
-The GitHub Marketplace is where you'll find [**Apps**](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps#about-github-apps) and [**Actions**](https://docs.github.com/en/actions/creating-actions/about-actions#about-actions) to optimize your GitHub workflow.    
+The GitHub Marketplace contains the following UI components for optimizing your GitHub workflow:
+
+***
+
+- [**Apps**](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps#about-github-apps) 
+
+***
+
+- [**Actions**](https://docs.github.com/en/actions/creating-actions/about-actions#about-actions)  
+
+***
