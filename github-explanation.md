@@ -1,4 +1,6 @@
 # Why you should host your technical writing portfolio on GitHub 
+> **Note:** This article assumes familiarity with GitHub. If you're new to GitHub, start [here](https://docs.github.com/en/get-started).
+
 The technical writing profession has changed dramatically over the past decade, but technical writing portfolios haven't. Traditionally, technical writers have maintained portfolios by saving copies of their work or hosting it on a website. These customs have remained largely unchallenged, despite technical writing being more digital and collaborative than ever. 
 
 GitHub can adapt your portfolio to the demands of today's technical writing profession. GitHub's success rests on the following attributes: 
@@ -6,13 +8,19 @@ GitHub can adapt your portfolio to the demands of today's technical writing prof
 - Opportunity 
 - Discovery 
 
-These attributes have helped millions of programmers collaborate on today's most influential software projects. These attributes can also modernize your technical writing portfolio. 
+These attributes have helped millions of programmers collaborate on today's most influential software projects; these attributes can also modernize your technical writing portfolio. 
 
 ## Community 
-Community on GitHub 
+Community on GitHub will make your technical writing portfolio accessible and relevant. 
 
 ## Opportunity 
-Opportunity on GitHub will keep your portolio fresh and relevant. 
+Opportunity on GitHub will keep your technical writing portolio fresh and relevant. 
 
 ## Discovery 
 Discovery on GitHub will add interesting projects to your technical writing portfolio. 
+
+## Next steps 
+Whether you're a new technical writer or an experienced technical writing professional, GitHub can modernize your portfolio. If you're ready to host your portfolio on GitHub, these resources will help you get started: 
+- 
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+- [Explore technical writing on GitHub](https://github.com/topics/technical-writing)
