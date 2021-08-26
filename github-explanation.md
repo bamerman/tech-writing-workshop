@@ -21,6 +21,8 @@ Discovery on GitHub will add interesting projects to your technical writing port
 
 ## Next steps 
 Whether you're a new technical writer or an experienced technical writing professional, GitHub can modernize your portfolio. If you're ready to host your portfolio on GitHub, these resources will help you get started: 
-- 
+
+- [My technical writing portfolio (ft. Amruta Ranade)](https://www.youtube.com/watch?v=68ddwfpXHrE)
+- [How to create a compelling GitHub portfolio](https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92)
 - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
 - [Explore technical writing on GitHub](https://github.com/topics/technical-writing)
