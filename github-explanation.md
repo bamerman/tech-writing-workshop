@@ -20,7 +20,7 @@ Opportunity on GitHub will keep your technical writing portolio fresh and compet
 Discovery on GitHub will make your technical writing portfolio personal and interesting. 
 
 ## Next steps 
-Get started with hosting your technical writing portfolio on GitHub with these resources: 
+Learn more about hosting a GitHub portfolio with these resources: 
 
 - [My technical writing portfolio (ft. Amruta Ranade)](https://www.youtube.com/watch?v=68ddwfpXHrE)
 - [How to create a compelling GitHub portfolio](https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92)
