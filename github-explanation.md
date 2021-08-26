@@ -11,13 +11,13 @@ GitHub can adapt your portfolio to the demands of today's technical writing prof
 These attributes have helped millions of programmers collaborate on today's most influential software projects; these attributes can also modernize your technical writing portfolio. 
 
 ## Community 
-Community on GitHub will make your technical writing portfolio accessible and relevant. Today's most passionate programmers make up the GitHub community. When hosted on GitHub, your technical writing portfolio is accessible to the people who need your skills most. Today's most important software projects also make up the GitHub communitity, which means that your GitHub portfolio will match you with projects relevant to your skillset and the world of tech. 
+Community on GitHub will make your technical writing portfolio accessible and relevant. Today's most passionate programmers make up the GitHub community. Your GitHub-hosted portofolio will be accessible to the people who need your skills most. Today's most important software projects also make up the GitHub communitity, which means that your GitHub portfolio will match you with projects relevant to your skillset and the world of tech. 
 
 ## Opportunity 
-Opportunity on GitHub will keep your technical writing portolio fresh and competitive. Dominant open-source projects gravitate to GitHub, and these projects present
+Opportunity on GitHub will keep your technical writing portolio fresh and competitive. Dominant open-source projects gravitate to GitHub. Keeping your portfolio on GitHub  will make you an ideal candidate for these projects, which will in turn add to your portfolio. What's more, the biggest tech companies recruit technical writers with open-source experience. Your GitHub portfolio will signal to employers that you are familiar with open-source collaboration. 
 
 ## Discovery 
-Discovery on GitHub will make your technical writing portfolio personal and interesting. 
+Discovery on GitHub will let your technical writing portfolio network and standout. GitHub's starring system and recommendation feed introduces you to niche projects that match your interests. Integrating your portfolio with these projects will not only expand your network, but also diversify your portfolio.    
 
 ## Next steps 
 Learn more about hosting a GitHub portfolio with these resources: 
