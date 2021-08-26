@@ -11,7 +11,7 @@ GitHub can adapt your portfolio to the demands of today's technical writing prof
 These attributes have helped millions of programmers collaborate on today's most influential software projects; these attributes can also modernize your technical writing portfolio. 
 
 ## Community 
-Community on GitHub will make your technical writing portfolio accessible and relevant. 
+Community on GitHub will make your technical writing portfolio accessible and relevant. Today's most passionate programmers make up the GitHub community. When hosted on GitHub, your technical writing portfolio is accessible to the people who need your skills most. Today's most important software projects also make up the GitHub community. A GitHub portfolio will match you with projects relevant to your skillset and the tech community at large. 
 
 ## Opportunity 
 Opportunity on GitHub will keep your technical writing portolio fresh and relevant. 
@@ -20,7 +20,7 @@ Opportunity on GitHub will keep your technical writing portolio fresh and releva
 Discovery on GitHub will add interesting projects to your technical writing portfolio. 
 
 ## Next steps 
-Whether you're a new technical writer or an experienced technical writing professional, GitHub can modernize your portfolio. If you're ready to host your portfolio on GitHub, these resources will help you get started: 
+Get started with hosting your technical writing portfolio on GitHub with these resources: 
 
 - [My technical writing portfolio (ft. Amruta Ranade)](https://www.youtube.com/watch?v=68ddwfpXHrE)
 - [How to create a compelling GitHub portfolio](https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92)
