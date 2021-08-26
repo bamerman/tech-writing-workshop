@@ -17,7 +17,7 @@ Community on GitHub will make your technical writing portfolio accessible and re
 Opportunity on GitHub will keep your technical writing portolio fresh and competitive. Dominant open-source projects gravitate to GitHub, and these projects present
 
 ## Discovery 
-Discovery on GitHub will add interesting projects to your technical writing portfolio. 
+Discovery on GitHub will make your technical writing portfolio personal and interesting. 
 
 ## Next steps 
 Get started with hosting your technical writing portfolio on GitHub with these resources: 
