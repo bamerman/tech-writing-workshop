@@ -15,11 +15,11 @@ Professional writing samples include:
 **Barista training manual:** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
 
 ## Open-source 
-The open-source category includes writing samples for open-source projects, including: 
+The open-source category contains writing samples for open-source projects, including: 
 
-**One Small Favor Wiki:** Maintains the Old School RuneScape wiki. 
+**One Small Wiki Favor group:** Maintains the Old School RuneScape wiki. 
 
-**MuseScore:** is an open-source music notation software. 
+**MuseScore community:** Maintains the documentation for the open-source music notation software, MuseScore. 
 
 ## Academic 
 The academic category includes writing samples created in these learning contexts: 
@@ -27,8 +27,4 @@ The academic category includes writing samples created in these learning context
 - Independent workshops 
 - Personal learning projects 
 
-**Four GitHub documents for Amruta Ranade’s online Technical Writing Workshop** contains these writing samples: 
-- Getting started with GitHub tutorial
-- Create your GitHub profile README how-to guide 
-- GitHub UI reference guide 
-- Why you should host your technical writing portfolio on GitHub explainer doc 
+**Amruta Ranade’s online Technical Writing Workshop:** Contains writing samples for GitHub. 
