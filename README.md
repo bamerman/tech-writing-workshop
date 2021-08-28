@@ -15,7 +15,7 @@ Professional writing samples include:
 **Barista training manual:** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
 
 ## Open-source 
-The open-source category contains writing samples for open-source projects, including: 
+The open-source category contains contributions to these open-source projects: 
 
 **One Small Wiki Favor group:** Maintains the Old School RuneScape wiki. 
 
