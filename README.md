@@ -27,4 +27,6 @@ The academic category includes writing samples created in these learning context
 - Independent workshops 
 - Personal learning projects 
 
-**Amruta Ranade’s online Technical Writing Workshop:** Contains writing samples for GitHub. 
+Academic samples include: 
+
+**Amruta Ranade’s online Technical Writing Workshop:** Contains four kinds of documentation about GitHub.  
