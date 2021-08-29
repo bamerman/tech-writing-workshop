@@ -12,14 +12,17 @@ The professional category contains writing samples that meet at least one of the
 
 Professional writing samples include: 
 
-**Barista training manual** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
+**Barista training manual**<br> 
+Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
 
 ## Open-source 
-The open-source category contains writing samples contributed to open source projects, including:  
+The open-source category contains writing samples contributed to open source projects. Open-source writing samples include:   
 
-**One Small Wiki Favour group** Maintains the Old School RuneScape wiki. 
+**Old School RuneScape Wiki contributions**<br>
+The Old School RuneScape Wiki is the game wiki for Old School RuneScape. My contributions to the wiki include:  
 
-**MuseScore community** Maintains the documentation for the open-source music notation software, MuseScore. 
+**MuseScore contributions**<br>
+MuseScore is an open-source music notation software. My contributions to MuseScore's documentation include: 
 
 ## Academic 
 The academic category contains writing samples created for these learning contexts: 
@@ -29,7 +32,8 @@ The academic category contains writing samples created for these learning contex
 
 Academic writing samples include: 
 
-**Amruta Ramade Technical Writing Workshop** Practice with four kinds of documentation about these GitHub topics: 
+**Amruta Ramade Technical Writing Workshop assignments**<br> 
+Practice with four kinds of documentation about these GitHub topics: 
 - [Getting started with your GitHub profile README](https://github.com/bamerman/portfolio/blob/main/profile_tutorial.md)
 - [How to add files to your GitHub repository](https://github.com/bamerman/portfolio/blob/main/file_howto.md)
 - [GitHub UI reference guide](https://github.com/bamerman/portfolio/blob/main/ui_reference.md)
