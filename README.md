@@ -27,7 +27,7 @@ The academic category contains writing samples created for these learning contex
 - Independent workshops 
 - Personal learning projects 
 
-Academic samples include: 
+Academic writing samples include: 
 
 **Amruta Ramade Technical Writing Workshop** Practice with four kinds of documentation about these GitHub topics: 
 - [Getting started with your GitHub profile README](https://github.com/bamerman/portfolio/blob/main/profile_tutorial.md)
