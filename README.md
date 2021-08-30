@@ -1,33 +1,17 @@
 # Note to the reader 
-Thank you for taking the time to look through my technical writing portfolio. The writing samples in this repository are categorized as follows:
+Thank you for taking the time to look through my technical writing portfolio. Find descriptions for the writing samples in this repository here: 
 
-[Professional](#professional)<br>
-[Open-source](#open-source)<br>
-[Academic](#academic)<br>
+**Barista training manual** <br>
+The [barista training manual](https://github.com/bamerman/portfolio/blob/main/barista-training-manual.md) trains new baristas at Rough Draft Coffee in cafe operations and coffee knowledge. 
 
-## Professional   
-The professional category contains documentation for an employer, third party, or another organization. Professional writing samples include:  
+**Getting started with your GitHub profile README**<br>
+The [Getting started with your GitHub profile README](https://github.com/bamerman/portfolio/blob/main/profile_tutorial.md) is a tutorial that guides new GitHub users through creating a GitHub profile README. 
 
-- **Barista training manual**<br>
-The barista training manual trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
+**How to add a file to your GitHub repository**<br>
+The [How to add a file to your GitHub repository](https://github.com/bamerman/portfolio/blob/main/file_howto.md) is a how-to guide that shows GitHub users how to add a file to a GitHub repository.
 
-## Open-source 
-The open-source category contains contributions to open-source projects. Open-source writing samples include:  
+**GitHub UI reference guide**<br> 
+The [GitHub UI reference guide](https://github.com/bamerman/portfolio/blob/main/ui_reference.md) is a reference guide that documents the main GitHub UI features. 
 
-- **Old School RuneScape Wiki contributions**<br>
-- **MuseScore contributions**<br> 
-
-## Academic 
-The academic category contains documentation created for courses, workshops, or indpendent learning purposes. Academic writing samples include:  
-
-- **Getting started with your GitHub profile README**<br> 
-This tutorial...
-
-- **How to add a file to your GitHub repository**<br>
-This how-to guide...
-
-- **GitHub UI reference guide**<br>
-This reference guide...
-
-- **Why you should host your technical writing portfolio on GitHub**<br>
-This explanation document 
+**Why you should host your technical writing portfolio on GitHub**<br>
+The [Why you should host your technical writing portfolio on GitHub](https://github.com/bamerman/portfolio/blob/main/github-explanation.md) is an explanation document that describes the benefits of hosting your technical writing portfolio on GitHub.
