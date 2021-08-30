@@ -5,35 +5,21 @@ Thank you for taking the time to look through my technical writing portfolio. Th
 [Open-source](#open-source)<br>
 [Academic](#academic)<br>
 
-## Professional  
-The professional category contains writing samples that meet at least one of these criteria: 
-- Completed for an employer 
-- Commissioned by a third party 
-- Used by a business, organization, or government entity 
+## Professional   
+The professional category contains documentation for an employer, third party, or another organization. Professional writing samples include:  
 
-Professional writing samples include: 
-
-**Barista training manual** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
+- **Barista training manual** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
 
 ## Open-source 
-The open-source category contains writing samples contributed to these open source projects: 
-- Old School RuneScape Wiki
-- MuseScore 
-
-Open-source writing samples include: 
-
-**In progress** 
+The open-source category contains contributions to open-source projects. Open-source writing samples include:  
 
 ## Academic 
-The academic category contains writing samples created for these learning contexts: 
-- College and online courses
-- Independent workshops 
-- Personal learning projects 
+The academic category contains documentation created for courses, workshops, or indpendent learning purposes. Academic writing samples include:  
 
-Academic writing samples include: 
+- **Create a profile README tutorial** Walks new GitHub users through creating a profile README. 
 
-**Amruta Ramade Technical Writing Workshop assignments** Practice with four kinds of documentation about these GitHub topics: 
-- [Getting started with your GitHub profile README](https://github.com/bamerman/portfolio/blob/main/profile_tutorial.md)
-- [How to add files to your GitHub repository](https://github.com/bamerman/portfolio/blob/main/file_howto.md)
-- [GitHub UI reference guide](https://github.com/bamerman/portfolio/blob/main/ui_reference.md)
-- [Why you should host your technical writing portfolio on GitHub](https://github.com/bamerman/portfolio/blob/main/github-explanation.md)
+- **Add a file how-to guide** Guides GitHub users through adding a file to a repository.
+
+- **UI reference** Informs GitHub's main UI features.
+
+- **Portfolio explanation** Describes the benefits of hosting a technical writing portfolio on GitHub. 
