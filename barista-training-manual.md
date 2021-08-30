@@ -24,11 +24,11 @@ Further reading<br>
 &nbsp; Countries and regions<br>
 
 ## What is coffee 
-Coffee comes from the seeds within the cherries of a plant genus, **coffea**.
+Coffee comes from the seeds within the cherries of the **coffea** plant.
 
 <!--Add isolated image titled "Diagram of coffee plant anatomy" here-->
 
-Coffea plants come in different species and varietals that produce coffee with unique sensory characteristics. The coffee served at your cafe comes from... To learn more about coffea plants, see <a href="#species-and-varietals">species and varietals</a> in the further reading section.  
+Coffea plants come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Arabica** and **robusta** are the most common species of coffee plants, with arabaca being the more sought after of the two because of its superior aroma and flavor. Like wine, the varietals of  the  see <a href="#species-and-varietals">species and varietals</a> in the further reading section.  
 
 Because coffea plants thrive in tropical climates, most coffee is grown in a ring of regions near the equator called the *coffee belt*. Each of the places within the coffee belt also affect the way coffee tastes, which is why coffee named after its origin. For example, Sumatran coffees are... For more information about <a href="#countries-and-regions">countries and regions</a>, see the further reading section. 
 
