@@ -2,7 +2,7 @@
 The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. Although the manual targets new baristas, additional resources for experienced baristas supplement each section. In this manual, you'll learn: 
 
 [What is coffee](#what-is-coffee)<br>           <!--Use HTML to format collapsable table of contents-->
-What is brewing<br> 
+[Coffee brewing](#coffee-brewing)<br> 
 &nbsp; Strength<br>
 &nbsp; Extraction<br>
 &nbsp; Grind<br>
@@ -29,7 +29,7 @@ Further reading<br>
 &nbsp; Countries and regions<br>
 
 ## What is coffee 
-Coffee comes from the seeds within the cherries of a **coffea** plant.
+Coffee comes from the seeds within the cherries of a plant genus, **coffea**.
 
 <!--Add isolated image titled "Diagram of coffee plant anatomy" here-->
 
@@ -39,12 +39,14 @@ Because coffea plants thrive in tropical climates, most coffee is grown in a rin
 
 <!--Add isolated image titled "The coffee belt" here--> 
 
-**Production**
-Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans at cafes and supermarkets: 
+**Stages of production**<br>
+Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans sold at cafes and supermarkets: 
 
 1. Picking 
 2. Processing 
 3. Roasting 
+
+<!--Consider either a) moving further reading commments to section here or b)adding brewing section to "What is coffee" heading--> 
 
 ## Coffee brewing  
 
