@@ -8,18 +8,26 @@ Thank you for taking the time to look through my technical writing portfolio. Th
 ## Professional   
 The professional category contains documentation for an employer, third party, or another organization. Professional writing samples include:  
 
-- **Barista training manual** Trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
+- **Barista training manual**<br>
+The barista training manual trains baristas at Rough Draft Coffee in coffee knowledge and cafe procedures. 
 
 ## Open-source 
 The open-source category contains contributions to open-source projects. Open-source writing samples include:  
 
+- **Old School RuneScape Wiki contributions**<br>
+- **MuseScore contributions**<br> 
+
 ## Academic 
 The academic category contains documentation created for courses, workshops, or indpendent learning purposes. Academic writing samples include:  
 
-- **Create a profile README tutorial** Walks new GitHub users through creating a profile README. 
+- **Getting started with your GitHub profile README**<br> 
+This tutorial...
 
-- **Add a file how-to guide** Guides GitHub users through adding a file to a repository.
+- **How to add a file to your GitHub repository**<br>
+This how-to guide...
 
-- **UI reference** Informs GitHub's main UI features.
+- **GitHub UI reference guide**<br>
+This reference guide...
 
-- **Portfolio explanation** Describes the benefits of hosting a technical writing portfolio on GitHub. 
+- **Why you should host your technical writing portfolio on GitHub**<br>
+This explanation document 
