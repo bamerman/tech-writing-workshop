@@ -1,5 +1,5 @@
 # Barista training manual  
-The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. In this manual, you'll learn: 
+The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. Although the manual targets new baristas, additional resources and readings for experienced baristas supplement each section. In this manual, you'll learn: 
 
 [What is coffee](#what-is-coffee)<br> <!--Use HTML to create collapsable table of contents-->
 &nbsp; Seed<br>
@@ -34,4 +34,4 @@ Further reading<br>
 &nbsp; Espresso machine care<br>
 
 ## What is coffee
-Coffee beans are 
+Coffee comes from coffee plants. 
