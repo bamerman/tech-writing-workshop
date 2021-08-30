@@ -2,14 +2,9 @@
 The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. Although the manual targets new baristas, additional resources for experienced baristas supplement each section. In this manual, you'll learn: 
 
 [What is coffee](#what-is-coffee)<br>           <!--Use HTML to format collapsable table of contents-->
-[Coffee brewing](#coffee-brewing)<br> 
-&nbsp; Strength<br>
-&nbsp; Extraction<br>
-&nbsp; Grind<br>
-&nbsp; Time<br>
-&nbsp; Water<br>
-&nbsp; Coffee vs. espresso<br>
-How to pull a shot of espresso<br>
+&nbsp; <a href="#production">Production</a><br>
+&nbsp; <a href="#brewing">Brewing</a><br>
+[What is espresso](#what-is-espresso)<br> 
 &nbsp; Grinder diagram<br>
 &nbsp; Espresso machine diagram<br>
 &nbsp; Dial in<br>
@@ -39,16 +34,18 @@ Because coffea plants thrive in tropical climates, most coffee is grown in a rin
 
 <!--Add isolated image titled "The coffee belt" here--> 
 
-**Stages of production**<br>
+<a name="production">**Production**</a><br>
 Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans sold at cafes and supermarkets: 
 
 1. Picking 
 2. Processing 
 3. Roasting 
 
+<a name="brewing">**Brewing**</a><br>
+
 <!--Consider either a) moving further reading commments to section here or b)adding brewing section to "What is coffee" heading--> 
 
-## Coffee brewing  
+## What is espresso  
 
 ## Further reading 
 <a name="species-and-varietals">**Species and varietals**</a>
