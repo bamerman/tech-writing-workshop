@@ -1,7 +1,9 @@
 # Barista training manual  
 The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. Although the manual targets new baristas, additional resources for experienced baristas supplement each section. In this manual, you'll learn about the following topics: 
 
-[What is coffee](#what-is-coffee)<br>           <!--Use HTML to format collapsable table of contents-->
+[Where coffee comes from](#where-coffee-comes-from)<br>           <!--Use HTML to format collapsable table of contents-->
+&nbsp; <a href="#coffee-plant">Coffee plant</a><br>
+&nbsp; <a href="#origin">Origin</a><br>
 &nbsp; <a href="#production">Production</a><br>
 &nbsp; <a href="#brewing">Brewing</a><br>
 [What is espresso](#what-is-espresso)<br> 
@@ -23,19 +25,21 @@ Further reading<br>
 &nbsp; Species and varietals<br> 
 &nbsp; Countries and regions<br>
 
-## What is coffee 
-Coffee comes from the seeds within the cherries of the **coffea** plant.
+## Where coffee comes from 
+Coffee comes from the seeds within the cherries of a coffee plant. 
 
 <!--Add isolated image titled "Diagram of coffee plant anatomy" here-->
 
-Coffea plants come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Arabica** and **robusta** are the most common species of coffee plants, with arabaca being the more sought after of the two because of its superior aroma and flavor. Like wine, the varietals of  the  see <a href="#species-and-varietals">species and varietals</a> in the further reading section.  
+<a name="coffee-plant">**Coffee plant**</a><br> 
+Coffee plants–genus **coffea**–come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. To learn more about coffee plants, see <a href="#species-and-varietals">species and varietals</a>. 
 
-Because coffea plants thrive in tropical climates, most coffee is grown in a ring of regions near the equator called the *coffee belt*. Each of the places within the coffee belt also affect the way coffee tastes, which is why coffee named after its origin. For example, Sumatran coffees are... For more information about <a href="#countries-and-regions">countries and regions</a>, see the further reading section. 
+<a name="origin">**Origin**</a><br>
+The place coffee is grown–its **origin**–also matters. Because coffee plants thrive in tropical climates, most coffee is grown in a ring of regions near the equator called the **coffee belt**. Each of the places within the coffee belt also affect the way coffee tastes, which is why coffee is often named after its origin. For example, *Sumatra* signals coffee that will taste earthy and zesty; *Ethiopa Yirgacheffe* signals sweet and floral. To learn more about origin, see <a href="#countries-and-regions">countries and regions</a>.
 
 <!--Add isolated image titled "The coffee belt" here--> 
 
 <a name="production">**Production**</a><br>
-Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans sold at cafes and supermarkets: 
+Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans at cafes and supermarkets: 
 
 1. Picking 
 2. Processing 
