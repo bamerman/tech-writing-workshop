@@ -1,5 +1,5 @@
 # Note to the reader 
-Thank you for taking the time to look through my technical writing portfolio. Find descriptions for the writing samples in this repository here: 
+Thank you for taking the time to look through my technical writing portfolio. Find descriptions of the writing samples in this repository here: 
 
 **Barista training manual** <br>
 The [barista training manual](https://github.com/bamerman/portfolio/blob/main/barista-training-manual.md) trains new baristas at Rough Draft Coffee in cafe operations and coffee knowledge. 
