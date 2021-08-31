@@ -5,8 +5,7 @@ The goal of the barista training manual is to train new baristas in coffee knowl
 &nbsp; <a href="#coffee-plant">Coffee plant</a><br>
 &nbsp; <a href="#origin">Origin</a><br>
 &nbsp; <a href="#production">Production</a><br>
-&nbsp; <a href="#brewing">Brewing</a><br>
-[What is espresso](#what-is-espresso)<br> 
+[Science of coffee brewing](#science-of-coffee-brewing)<br> 
 &nbsp; Grinder diagram<br>
 &nbsp; Espresso machine diagram<br>
 &nbsp; Dial in<br>
@@ -41,15 +40,16 @@ The place coffee is grown–its **origin**–also matters. Because coffee plants
 <a name="production">**Production**</a><br>
 Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans at cafes and supermarkets: 
 
-1. Picking 
-2. Processing 
-3. Roasting 
+1. **Picking** generally occurs in one of these ways:<br>
+    A. For cheap crops, farmers strip pick ripe and unripe coffee cherries by hand or machine.<br> 
+    B. For expensive crops, farmers hand pick only the ripest cherries, sometimes sorting the cherries by size and color along the way. 
+    
+<!-- Insert isolated image titled "Coffee picking" here--> 
 
-<a name="brewing">**Brewing**</a><br>
+3. **Processing** refers...
+4. Roasting 
 
-<!--Consider either a) moving further reading commments to section here or b)adding brewing section to "What is coffee" heading--> 
-
-## What is espresso  
+## Science of coffee brewing  
 
 ## Further reading 
 <a name="species-and-varietals">**Species and varietals**</a>
