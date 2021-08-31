@@ -2,7 +2,7 @@
 The goal of the barista training manual is to train new baristas in coffee knowledge and cafe operations. Although the manual targets new baristas, additional resources for experienced baristas supplement each section. In this manual, you'll learn about the following topics: 
 
 [Where coffee comes from](#where-coffee-comes-from)<br>           <!--Use HTML to format collapsable table of contents-->
-&nbsp; <a href="#coffee-plant">Coffee plant</a><br>
+&nbsp; <a href="#coffee-plants">Coffee plants</a><br>
 &nbsp; <a href="#origin">Origin</a><br>
 &nbsp; <a href="#production">Production</a><br>
 [Science of coffee brewing](#science-of-coffee-brewing)<br> 
@@ -29,7 +29,7 @@ Coffee comes from the seeds within the cherries of a coffee plant.
 
 <!--Add isolated image titled "Diagram of coffee plant anatomy" here-->
 
-<a name="coffee-plant">**Coffee plant**</a><br> 
+<a name="coffee-plants">**Coffee plants**</a><br> 
 Coffee plants–genus **coffea**–come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. To learn more about coffee plants, see <a href="#species-and-varietals">species and varietals</a>. 
 
 <a name="origin">**Origin**</a><br>
