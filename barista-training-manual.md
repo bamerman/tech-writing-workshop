@@ -21,9 +21,9 @@ Steps of service<br>
 Standard operating procedures<br> 
 &nbsp; Drip coffee<br>
 &nbsp; Espresso machine care<br>
-Further reading<br>
-&nbsp; Species and varietals<br> 
-&nbsp; Countries and regions<br>
+[Further reading](#further-reading)<br>
+&nbsp; <a href="#species-and-varietals">Species and varietals</a><br> 
+&nbsp; <a href="#countries-and-regions">Countries and regions</a><br>
 
 ## Where coffee comes from 
 Coffee comes from the seeds within the cherries of a coffee plant. 
