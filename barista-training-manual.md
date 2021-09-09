@@ -30,7 +30,7 @@ Coffee comes from the seeds within the cherries of a coffee plant.
 <!--Add isolated image titled "Diagram of coffee plant anatomy" here-->
 
 <a name="coffee-plants">**Coffee plants**</a><br> 
-Coffee plants–genus **coffea**–come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. To learn more about coffee plants, see <a href="#species-and-varietals">species and varietals</a>. 
+Coffee plants come in different **species** and **varietals** that produce coffee with unique sensory characteristics. **Coffea arabica** and **Coffea robusta** are the most common species of coffee plants, with Coffea arabaca being more sought after because of its superior aroma and flavor. The varietals of each species of coffee plant also affect the way coffee will taste. To learn more about coffee plants, see <a href="#species-and-varietals">species and varietals</a>. 
 
 <a name="origin">**Origin**</a><br>
 The place coffee is grown–its **origin**–also matters. Because coffee plants thrive in tropical climates, most coffee is grown in a ring of regions near the equator called the **coffee belt**. Each of the places within the coffee belt also affect the way coffee tastes, which is why coffee is often named after its origin. For example, *Sumatra* signals coffee that will taste earthy and zesty; *Ethiopa Yirgacheffe* signals sweet and floral. To learn more about origin, see <a href="#countries-and-regions">countries and regions</a>.
@@ -40,11 +40,10 @@ The place coffee is grown–its **origin**–also matters. Because coffee plants
 <a name="production">**Production**</a><br>
 Once a crop of coffee ripens, farmers must prepare it for consumption. Coffee goes through these stages before it resembles the coffee beans at cafes and supermarkets: 
 
-1. **Picking** generally occurs in one of these ways:<br>
-    A. For cheap crops, farmers strip pick ripe and unripe coffee cherries by hand or machine.<br> 
-    B. For expensive crops, farmers hand pick only the ripest cherries, sometimes sorting the cherries by size and color along the way. 
-    
-<!-- Insert isolated image titled "Coffee picking" here--> 
+1. **Picking**<br> 
+    Farmers pick the ripe cherries off each coffee plant.  
+2. **Processing**<br>
+    Farmers extract the seeds from the picked coffee cherries procedure called processing. These are the most common processing methods   
 
 3. **Processing** refers...
 4. Roasting 
